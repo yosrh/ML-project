@@ -2,6 +2,6 @@
     remote = gdrive_remote
     autostage = true
 ['remote "gdrive_remote"']
-    url = gdrive://https://drive.google.com/drive/folders/1nHjkJnx9qArMgPS3E8v-jh85pBfJdODj?usp=drive_link
+    url = gdrive://1nHjkJnx9qArMgPS3E8v-jh85pBfJdODj
     gdrive_use_service_account = true
     gdrive_acknowledge_abuse = true
